@@ -1,6 +1,12 @@
 
 
-
+  <Product>
+    <Name>SQL17</Name>
+    <LanguageID>3082</LanguageID>
+    <LanguageName>Spanish</LanguageName>
+    <TotalUINumber>10</TotalUINumber>
+    <MilestoneNumber>0</MilestoneNumber>
+  </Product>
 
 
 
