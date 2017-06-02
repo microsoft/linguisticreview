@@ -1,6 +1,7 @@
   <Product>    
     <Name>SQL17</Name>    
-    <LanguageID>1033</LanguageID>    
+    <LanguageID>1033</LanguageID>   
+    <ShortName>ENU</ShortName>
     <LanguageName>English</LanguageName>    
     <TotalUINumber>10</TotalUINumber>    
     <MilestoneNumber>0</MilestoneNumber>  
