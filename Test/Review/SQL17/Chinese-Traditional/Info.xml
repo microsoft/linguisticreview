@@ -2,6 +2,7 @@
   <Product>
     <Name>SQL17</Name>
     <LanguageID>1028</LanguageID>
+    <ShortName>CHT</ShortName>
     <LanguageName>Chinese</LanguageName>
     <TotalUINumber>10</TotalUINumber>
     <MilestoneNumber>0</MilestoneNumber>
