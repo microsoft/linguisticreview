@@ -2,6 +2,7 @@
 <Product>
     <Name>SQL17</Name>
     <LanguageID>1046</LanguageID>
+    <ShortName>PTB</ShortName>
     <LanguageName>Portuguese</LanguageName>
     <TotalUINumber>10</TotalUINumber>
     <MilestoneNumber>0</MilestoneNumber>
