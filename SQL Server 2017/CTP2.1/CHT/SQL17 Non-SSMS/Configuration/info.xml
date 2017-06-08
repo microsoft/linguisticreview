@@ -1,8 +1,8 @@
   <Product>
     <Name>SQL17</Name>
-    <LanguageID>2052</LanguageID>
-    <ShortName>CHS</ShortName>
-    <LanguageName>Chinese</LanguageName>
+    <LanguageID>1028</LanguageID>
+    <ShortName>CHT</ShortName>
+    <LanguageName>Chinese Traditional</LanguageName>
     <TotalUINumber>17</TotalUINumber>
     <MilestoneNumber>0</MilestoneNumber>
   </Product>
